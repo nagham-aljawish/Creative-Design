@@ -1,0 +1,14 @@
+
+.border-4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.oo{
+    padding: 10px;
+    margin: 10px;
+}
+.bg-primary{
+    background-color: #f9da69 !important;
+}
+#error{
+    display: none;
+}
